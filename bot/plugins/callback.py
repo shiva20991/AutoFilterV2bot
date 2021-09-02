@@ -1600,15 +1600,15 @@ async def cb_about(bot, update: CallbackQuery):
 
     text=f"<i><u>Bot's Status</u></i>\n"
     text+=f"\n<b><i>Bot's Uptime:</i></b> <code>{time_formatter(time.time() - start_uptime)}</code>\n"
-    text+=f"\n<b><i>Bot Funtion:</i></b> <i>Auto Filter Files</i>\n"
-    text+=f"""\n<b><i>Bot Support:</i></b> <a href="https://t.me/CrazyBotszGrp">@CrazyBotszGrp</a>\n"""
-    text+="""\n<b><i>Source Code:</i></b> <a href="https://github.com/AlbertEinsteinTG/Adv-Filter-Bot-V2">Source</a>"""
+    text+=f"\n<b>Funtion:</i></b> <i>Auto Filter Files</i>\n"
+    text+=f"""\n<b><i>Support:</i></b> <a href="https://t.me/trvpn"@trvpn</a>\n"""
+    text+="""\n<b><i>Source :</i></b> <a href="https://Google.com">Source</a>"""
 
     buttons = [
         [
             InlineKeyboardButton
                 (
-                    "My Developer 📲", url="https://t.me/kunaldiwan"
+                    "My Developer 📲", url="https://t.me/trvpn"
                 ),
                 
             InlineKeyboardButton
@@ -1639,10 +1639,10 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('My Developer 👨‍🔬', url='https://t.me/Kunaldiwan'),
-            InlineKeyboardButton('Channel 📣', url ='https://t.me/DevelopedBots')
+            InlineKeyboardButton('My Developer 👨‍🔬', url='https://t.me/trvpn'),
+            InlineKeyboardButton('Channel 📣', url ='https://t.me/trvpn')
         ],[
-            InlineKeyboardButton('⚒️ Report Bugs ⚒️', url='https://t.me/DevelopedBotz')
+            InlineKeyboardButton('⚒️ Report Bugs ⚒️', url='https://t.me/trvpn')
         ],[
             InlineKeyboardButton('⚙️ Help commands ⚙', callback_data="help")
         ]]
