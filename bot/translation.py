@@ -4,15 +4,15 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hello {} - I'm Auto filter V2 Bot .
+    START_TEXT = """<b>Hello {} - I'm DUKELOVEr2 .
 
 I can help you to filter files automatically from channel to group .
 
 ➡️ Just add me to your group and channel as admin .
 
-For more details hit /help ....
+RIDE OR DIE....
 
-Powered by @DevelopedBots 💖
+Powered by @Tamilrockersvpn 💖
 </b>"""    
     
     HELP_TEXT = """
@@ -30,16 +30,16 @@ Powered by @DevelopedBots 💖
 
 ⚠️ Bot should be admin in both channel and group .
 
-<b>If you got any issues about Bot ask at @DevelopedBotz .</b>
+<b>If you got any issues about Bot ask at @TAMILBLASTERSLIVE .</b>
 """
     
-    ABOUT_TEXT = """<b>➥ 🤖 Name</b> : <code> Auto Filter V2 Bot</code>
+    ABOUT_TEXT = """<b>➥ 🤖 Name</b> : <code> Auto Filter </code>
     
-<b>➥ 👨‍💻 Creator</b> : <b><a href="https://t.me/kunaldiwan">Kunal diwan</a></b>
+<b>➥ 👨‍💻 Creator</b> : <b><a href="https://t.me/TAMILROCKERSVPN">TAMILROCKERS</a></b>
 
-<b>➥ 🏳‍🌈 Language</b> : <code>Python3</code>
+<b>➥ 🏳‍🌈 Language</b> : <code>FROM BRAIN</code>
 
-<b>➥ 📚 Library</b> : <a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a>
+<b>➥ 📚 Library</b> : <a href="https://T.ME/TRVPN">TRVPN DEVELOPER</a>
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 """
