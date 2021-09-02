@@ -55,7 +55,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developer 👨‍💻', url="https://t.me/kunaldiwan"
+                                    'Developer 👨‍💻', url="https://t.me/trvpn"
                                 )
                         ]
                     ]
@@ -74,7 +74,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'My developer 👨‍🔧', url="https://t.me/kunaldiwan"
+                                    'My developer 👨‍🔧', url="https://t.me/trvpn"
                                 )
                         ]
                     ]
@@ -93,7 +93,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Dev 👨‍🏭', url="https://t.me/kunaldiwan"
+                                    'Dev 👨‍🏭', url="https://t.me/trvpn"
                                 )
                         ]
                     ]
@@ -106,10 +106,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developer 👨‍💻', url='https://t.me/kunaldiwan'),
-        InlineKeyboardButton('Channel 🔔', url ='https://t.me/DevelopedBots')
+        InlineKeyboardButton('Developer 👨‍💻', url='https://t.me/trvpn'),
+        InlineKeyboardButton('Channel 🔔', url ='https://t.me/tamilrockersvpn')
     ],[
-        InlineKeyboardButton('Group 📣', url='https://t.me/DevelopedBotz')
+        InlineKeyboardButton('Group 📣', url='https://t.me/TAMILROCKERSVPN')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
@@ -118,7 +118,7 @@ async def start(bot, update):
     
     await bot.send_photo(
         chat_id=update.chat.id,
-        photo="https://telegra.ph/file/23204d4294ec7de02fed8.jpg",
+        photo="https://telegra.ph/file/581905270170b5c4954c1.jpg",
         caption=Translation.START_TEXT.format(
                 update.from_user.first_name),
         reply_markup=reply_markup,
