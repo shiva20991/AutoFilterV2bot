@@ -47,7 +47,7 @@ async def start(bot, update):
             await bot.send_document(
                 chat_id=update.chat.id,
                 document = file_id,
-                caption = caption + "@TAMILROCKERSVPN",
+                caption = caption + "POWERED BY @Tamilblasters_Win",
                 parse_mode="html",
                 reply_to_message_id=update.message_id,
                 reply_markup=InlineKeyboardMarkup(
@@ -67,7 +67,7 @@ async def start(bot, update):
             await bot.send_video(
                 chat_id=update.chat.id,
                 video = file_id,
-                caption = caption + "@TAMILROCKERSVPN",
+                caption = caption + "POWERED BY @Tamilblasters_Win",
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
@@ -86,7 +86,7 @@ async def start(bot, update):
             await bot.send_audio(
                 chat_id=update.chat.id,
                 audio = file_id,
-                caption = caption + "@TAMILROCKERSVPN",
+                caption = caption + "POWERED BY @Tamilblasters_Win",
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
@@ -107,9 +107,9 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('Developer 👨‍💻', url='https://t.me/trvpn'),
-        InlineKeyboardButton('Channel 🔔', url ='https://t.me/tamilrockersvpn')
+        InlineKeyboardButton('Channel 🔔', url ='https://t.me/Tamilblasters_Win')
     ],[
-        InlineKeyboardButton('Group 📣', url='https://t.me/TAMILROCKERSVPN')
+        InlineKeyboardButton('Group 📣', url='https://t.me/Tamilblasters_Win')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
