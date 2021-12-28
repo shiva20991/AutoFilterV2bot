@@ -4,7 +4,7 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hello {} - I'm DUKELOVEr2 .
+    START_TEXT = """<b>Hello {} - I'm AutoResponser ,Devoloped By : @trvpn .
 
 I can help you to filter files automatically from channel to group .
 
@@ -12,7 +12,7 @@ I can help you to filter files automatically from channel to group .
 
 RIDE OR DIE....
 
-Powered by @Tamilrockersvpn 💖
+Powered by @Tamilblasters_win 💖
 </b>"""    
     
     HELP_TEXT = """
@@ -30,12 +30,12 @@ Powered by @Tamilrockersvpn 💖
 
 ⚠️ Bot should be admin in both channel and group .
 
-<b>If you got any issues about Bot ask at @TAMILBLASTERSLIVE .</b>
+<b>If you got any issues about Bot ask at @Trvpn .</b>
 """
     
     ABOUT_TEXT = """<b>➥ 🤖 Name</b> : <code> Auto Filter </code>
     
-<b>➥ 👨‍💻 Creator</b> : <b><a href="https://t.me/TAMILROCKERSVPN">TAMILROCKERS</a></b>
+<b>➥ 👨‍💻 Creator</b> : <b><a href="https://t.me/TrPN">TAMILROCKERS</a></b>
 
 <b>➥ 🏳‍🌈 Language</b> : <code>FROM BRAIN</code>
 
